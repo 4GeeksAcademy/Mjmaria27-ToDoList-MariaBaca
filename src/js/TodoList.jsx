@@ -23,9 +23,8 @@ export default function TodoList() {
       margin: '30px auto',
       fontFamily: "'Montserrat', sans-serif",
 
-      textAlign: 'center' 
     }}
-  >
+  > 
     <h2>TO DO LIST</h2>
       <input
         type="text"
